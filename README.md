@@ -12,13 +12,10 @@ Built as a visual-first learning experience using pure HTML, CSS, and JavaScript
 
 ## Preview
 
-![Hero](images/hero.png)
-
-![Temperature Demo](images/temp.png)
-
-![Gradient Descent](images/gradient.png)
-
-![RLHF](images/rlhf.png)
+<img src="images/hero.png" width="900">
+<img src="images/temp.png" width="420">
+<img src="images/gradient.png" width="420">
+<img src="images/rlhf.png" width="420">
 
 ---
 
