@@ -12,9 +12,29 @@ Built as a visual-first learning experience using pure HTML, CSS, and JavaScript
 
 ## Preview
 
-<img src="images/hero.png" width="900">
-<img src="images/temp.png" width="420"> <img src="images/gradient.png" width="420">
-<img src="images/rlhf.png" width="420">
+<table>
+<tr>
+<td colspan="2">
+<img src="images/hero.png" width="100%">
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="images/temp.png" width="100%">
+</td>
+
+<td>
+<img src="images/gradient.png" width="100%">
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<img src="images/rlhf.png" width="100%">
+</td>
+</tr>
+</table>
 
 ---
 
