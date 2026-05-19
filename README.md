@@ -10,9 +10,21 @@ Built as a visual-first learning experience using pure HTML, CSS, and JavaScript
 
 ---
 
+## Preview
+
+![Hero](images/hero.png)
+
+![Temperature Demo](images/temp.png)
+
+![Gradient Descent](images/gradient.png)
+
+![RLHF](images/rlhf.png)
+
+---
+
 ## Live Demo
 
-Coming soon via GitHub Pages.
+(https://titusbru.github.io/how-llms-learn/)
 
 ---
 
