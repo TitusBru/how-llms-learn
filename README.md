@@ -13,8 +13,7 @@ Built as a visual-first learning experience using pure HTML, CSS, and JavaScript
 ## Preview
 
 <img src="images/hero.png" width="900">
-<img src="images/temp.png" width="420">
-<img src="images/gradient.png" width="420">
+<img src="images/temp.png" width="420"> <img src="images/gradient.png" width="420">
 <img src="images/rlhf.png" width="420">
 
 ---
