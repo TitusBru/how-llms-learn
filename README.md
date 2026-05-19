@@ -1,12 +1,6 @@
-# how-llms-learn
-How LLMs Learn — Interactive Visual Guide
-
-
 # How LLMs Learn — Interactive Visual Guide
 
 An interactive educational microsite explaining how Large Language Models (LLMs) learn — from weights and backpropagation to pre-training and RLHF.
-
-Built as a visual-first learning experience using pure HTML, CSS, and JavaScript.
 
 ---
 
@@ -40,7 +34,7 @@ Built as a visual-first learning experience using pure HTML, CSS, and JavaScript
 
 ## Live Demo
 
-(https://titusbru.github.io/how-llms-learn/)
+https://titusbru.github.io/how-llms-learn/
 
 ---
 
@@ -77,19 +71,26 @@ No frameworks. No dependencies.
 
 Most explanations of LLMs are either too mathematical or too abstract.
 
-This project aims to explain the core ideas visually and intuitively, using interaction, animation, and metaphors instead of equations-heavy lectures.
+This project aims to explain the core ideas visually and intuitively, using interaction, animation, and metaphors instead of equation-heavy lectures.
 
 ---
 
 ## Running Locally
 
-Clone the repository and open the HTML file in your browser:
+Clone the repository and open the project in your browser:
 
 ```bash
 git clone https://github.com/TitusBru/how-llms-learn.git
 cd how-llms-learn
-open index.html
 ```
+
+Then open:
+
+```txt
+index.html
+```
+
+in your browser.
 
 ---
 
